@@ -21,7 +21,7 @@
 
 ## Helpful Things
 
-[Moom](https://manytricks.com/moom/)
-[TextExpander](https://textexpander.com/)
-[LICECap](https://www.cockos.com/licecap/)
-[ImageOptim](https://imageoptim.com/mac)
+- [Moom](https://manytricks.com/moom/)
+- [TextExpander](https://textexpander.com/)
+- [LICECap](https://www.cockos.com/licecap/)
+- [ImageOptim](https://imageoptim.com/mac)
