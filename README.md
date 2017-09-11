@@ -22,6 +22,8 @@
 ## Helpful Things
 
 - [Moom](https://manytricks.com/moom/)
+- [iTerm2](https://www.iterm2.com/)
 - [TextExpander](https://textexpander.com/)
-- [LICECap](https://www.cockos.com/licecap/)
+- [Gif Brewery](http://gifbrewery.com/)
 - [ImageOptim](https://imageoptim.com/mac)
+- [f.lux](https://justgetflux.com/)
